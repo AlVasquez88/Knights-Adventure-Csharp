@@ -1,4 +1,5 @@
 # Knights-Adventure-Csharp
+**please get in touch with me if you want to try the game out for the ZIP file. The DLL files are currently not working when I posted them. Therefore the git repository will only display the contents contained in the published state of the game and the C# logic behind the game. The DLL files are proof of the published game.**
 •	The elements and goals of the game
 -	The goal of this platformer game is to survive against the three knights with a sense of collecting coins only to die when the player knight reaches the finish line believing that the player is claiming a prize. 
 •	How the elements moved.
